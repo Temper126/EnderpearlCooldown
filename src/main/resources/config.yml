@@ -1,0 +1,3 @@
+enderpearl:
+  cooldown: 16
+  message: "&c&l(&c!&c&l) &cThat action is on cooldown."
